@@ -1,0 +1,10 @@
+C:\Users\tai.nguyen\Desktop\ToDoApplication\DTO\bin\Debug\DTO.dll
+C:\Users\tai.nguyen\Desktop\ToDoApplication\DTO\bin\Debug\DTO.pdb
+C:\Users\tai.nguyen\Desktop\ToDoApplication\DTO\obj\Debug\DTO.dll
+C:\Users\tai.nguyen\Desktop\ToDoApplication\DTO\obj\Debug\DTO.pdb
+C:\Users\tai.nguyen\Desktop\ToDoApplication\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\Users\tai.nguyen\Desktop\ToDoApplication5\DTO\bin\Debug\DTO.dll
+C:\Users\tai.nguyen\Desktop\ToDoApplication5\DTO\bin\Debug\DTO.pdb
+C:\Users\tai.nguyen\Desktop\ToDoApplication5\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\Users\tai.nguyen\Desktop\ToDoApplication5\DTO\obj\Debug\DTO.dll
+C:\Users\tai.nguyen\Desktop\ToDoApplication5\DTO\obj\Debug\DTO.pdb

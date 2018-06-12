@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Tasks>
+  <Task ID="7385">
+    <Title>feed the dog</Title>
+    <Description>20 dogs</Description>
+    <DateCreate>2018-06-07T18:56:36.02465-07:00</DateCreate>
+    <DateFinish>2018-06-09T18:56:36</DateFinish>
+    <Status>Closed</Status>
+  </Task>
+  <Task ID="26037">
+    <Title>Go to school </Title>
+    <Description>a</Description>
+    <DateCreate>2018-06-11T21:09:23.8637044-07:00</DateCreate>
+    <DateFinish>2018-06-16T21:09:23</DateFinish>
+    <Status>Backlog</Status>
+  </Task>
+</Tasks>

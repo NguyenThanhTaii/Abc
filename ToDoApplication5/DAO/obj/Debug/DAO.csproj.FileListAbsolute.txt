@@ -1,0 +1,16 @@
+C:\Users\tai.nguyen\Desktop\ToDoApplication\DAO\bin\Debug\DAO.dll
+C:\Users\tai.nguyen\Desktop\ToDoApplication\DAO\bin\Debug\DAO.pdb
+C:\Users\tai.nguyen\Desktop\ToDoApplication\DAO\bin\Debug\DTO.dll
+C:\Users\tai.nguyen\Desktop\ToDoApplication\DAO\bin\Debug\DTO.pdb
+C:\Users\tai.nguyen\Desktop\ToDoApplication\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+C:\Users\tai.nguyen\Desktop\ToDoApplication\DAO\obj\Debug\DAO.dll
+C:\Users\tai.nguyen\Desktop\ToDoApplication\DAO\obj\Debug\DAO.pdb
+C:\Users\tai.nguyen\Desktop\ToDoApplication\DAO\bin\Debug\DAO.dll.config
+C:\Users\tai.nguyen\Desktop\ToDoApplication5\DAO\bin\Debug\DAO.dll.config
+C:\Users\tai.nguyen\Desktop\ToDoApplication5\DAO\bin\Debug\DAO.dll
+C:\Users\tai.nguyen\Desktop\ToDoApplication5\DAO\bin\Debug\DAO.pdb
+C:\Users\tai.nguyen\Desktop\ToDoApplication5\DAO\bin\Debug\DTO.dll
+C:\Users\tai.nguyen\Desktop\ToDoApplication5\DAO\bin\Debug\DTO.pdb
+C:\Users\tai.nguyen\Desktop\ToDoApplication5\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+C:\Users\tai.nguyen\Desktop\ToDoApplication5\DAO\obj\Debug\DAO.dll
+C:\Users\tai.nguyen\Desktop\ToDoApplication5\DAO\obj\Debug\DAO.pdb
