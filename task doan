@@ -1,9 +1,1 @@
-sửa attribute name,
-xoa duoc tat ca relationship one-many
-sửa giao diện web thành tiếng việt,
-sửa database thống kê,
-sửa trạng thái đơn hàng,
-khách hàng có thể xem trạng thái đơn hàng,
-kiểm tra hợp lệ sdt, email,
-khách hàng hủy đơn hàng khi chưa gởi đi,
-phan quyen https://stackoverflow.com/questions/13264496/asp-net-mvc-4-custom-authorize-attribute-with-permission-codes-without-roles
+Chào mọi người, em có làm một ứng dụng nhỏ kết hợp mô hình 3 lớp và repository design pattern dùng unit of work pattern đê kiểm tra hợp lệ. Table làm việc của em ngoài ID thì còn một field là unique, mọi người cho em hỏi có cách nào lúc try catch trong tầng Bussiness rồi in ra UI exceptione message như "Duplicate field" thay vì kiểu message chung chung như trong ảnh không ạ 
